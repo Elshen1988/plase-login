@@ -1,0 +1,39 @@
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+    margin-left: 600px;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+    
+
+}
+.email{
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.password{
+    margin-bottom: -20px;
+    margin-top: 20px;
+}
+button{
+    margin-top: 20px;
+width: 170px;
+}
+.p1{
+    margin-top: 90px;
+    color: white;
+}
+.p2{
+    border: 1px solid white;
+    height: 20px;
+    width:170px ;
+    color: white;
+    
+}
